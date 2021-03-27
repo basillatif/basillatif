@@ -5,5 +5,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a data science freelancer 
 - 📫 How to reach me: basil.latif@gmail.com
-- ⚡ Fun fact: Do what makes you happy
+- ⚡ Fun fact: Python2 still works 
 
