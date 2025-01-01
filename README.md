@@ -9,4 +9,4 @@ I program mainly in Python. For data analysis, I use the Pandas and Numpy librar
 In addition, I am skilled in SQL and NoSQL databases though I use those less on GitHub. 
 
 - 📫 How to reach me: basil.latif@gmail.com
--[My LinkedIn Profile] (https://www.linkedin.com/in/basil-latif/)
+[My LinkedIn Profile] (https://www.linkedin.com/in/basil-latif/)
