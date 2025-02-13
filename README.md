@@ -8,10 +8,6 @@ I program mainly in Python. For data analysis, I use the Pandas and Numpy librar
 
 In addition, I am skilled in SQL and NoSQL databases though I use those less on GitHub. 
 
-## GitHub Stats
-
-![Basil Latif's GitHub stats](https://github-readme-stats.vercel.app/api?username=basillatif&show_icons=true&theme=radical)
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basillatif&layout=compact&theme=radical)
