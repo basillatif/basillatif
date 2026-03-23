@@ -7,4 +7,4 @@ I am a Lead Data Scientist, Professor, and Python lover who loves all things rel
 I program mainly in Python. For data analysis, I use the Pandas and Numpy libraries. For Machine Learning, I use Statsmodels and Scikit learn. I've built many types of apps in Python. With data science, it always comes to getting good data, cleaning that data, and then building something useful on top of it. 
 
 ### Current Projects
-## Building a Fully Local AI Analyst: From CLI Model to Agentic System
+#### Building a Fully Local AI Analyst: From CLI Model to Agentic System
