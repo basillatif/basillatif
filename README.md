@@ -6,11 +6,5 @@ I am a Lead Data Scientist, Professor, and Python lover who loves all things rel
 ### Technical Skills
 I program mainly in Python. For data analysis, I use the Pandas and Numpy libraries. For Machine Learning, I use Statsmodels and Scikit learn. I've built many types of apps in Python. With data science, it always comes to getting good data, cleaning that data, and then building something useful on top of it. 
 
-In addition, I am skilled in SQL and NoSQL databases though I use those less on GitHub. 
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basillatif&layout=compact&theme=radical)
-
-- 📫 How to reach me: basil.latif@gmail.com <br>
-[My LinkedIn Profile](https://www.linkedin.com/in/basil-latif/)
+### Current Projects
+## Building a Fully Local AI Analyst: From CLI Model to Agentic System
