@@ -8,3 +8,4 @@ I program mainly in Python. For data analysis, I use the Pandas and Numpy librar
 
 ### Current Projects
 #### Building a Fully Local AI Analyst: From CLI Model to Agentic System
+#### Bobby G Agent — Personal Data Scientist + Operator
