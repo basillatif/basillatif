@@ -9,5 +9,5 @@ I program mainly in Python. For data analysis, I use the Pandas and Numpy librar
 ### Current Projects
 [Building a Fully Local AI Analyst](https://medium.com/p/7547100bb45e)  
 Bobby G Agent — Personal Data Scientist + Operator 
-2026 Soccer World Cup Predictor - Featuring GenAI
-MCP Project
+2026 Soccer World Cup Predictor - Featuring GenAI 
+MCP Project 
