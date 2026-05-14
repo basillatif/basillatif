@@ -11,3 +11,4 @@ I program mainly in Python. For data analysis, I use the Pandas and Numpy librar
 Bobby G Agent — Personal Data Scientist + Operator\
 2026 Soccer World Cup Predictor - Featuring GenAI\
 MCP Project\
+
