@@ -10,6 +10,6 @@ I program mainly in Python. For data analysis, I use the Pandas and Numpy librar
 [Building a Fully Local AI Analyst](https://medium.com/p/7547100bb45e)  
 Bobby G Agent — Personal Data Scientist + Operator  
 [2026 Soccer World Cup Predictor - Featuring GenAI](https://world-cup-ai-simulator-by-bobby.streamlit.app/)  
-[2026 NBA Finals World Cup Predictor - Featuring GenAI](https://medium.com/@basil-latif/i-built-an-nba-finals-prediction-app-with-codex-claude-and-streamlit-5bf83cb2f43a)  
+[NBA Finals World Cup Predictor - Featuring GenAI](https://medium.com/@basil-latif/i-built-an-nba-finals-prediction-app-with-codex-claude-and-streamlit-5bf83cb2f43a)  
 MCP Project  
 Hermes AI News Summary Agent (Built Using ChatGPT)
